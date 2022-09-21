@@ -1,0 +1,16 @@
+{
+  "name": "open-bo",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Aplikasi OPEN BO Terlengkap BO Hongkong BO Singapore",
+  "keywords": [
+    "open bo",
+    "open bo togel",
+    "situs open bo"
+  ],
+  "repository": "https://github.com/yutkot/open-bo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
